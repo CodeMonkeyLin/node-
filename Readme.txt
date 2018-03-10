@@ -1,0 +1,1 @@
+在命令窗口运行node .然后在浏览器地址栏输入http://localhost:3000/upload.html进行图片上传
